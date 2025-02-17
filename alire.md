@@ -1,0 +1,497 @@
+\-\-- lang: en title: Philosophie & Politique - a-lire viewport:
+width=device-width \-\-- ::::::: preamble :::
+preamble\_\_guild-icon-container \![Guild
+icon\](https://cdn.discordapp.com/icons/1257675750673223730/a308072cea3302ea073e86c0cc9920aa.png?size=512){.preamble\_\_guild-icon
+loading=\"lazy\"} ::: ::::: preamble\_\_entries-container :::
+preamble\_\_entry Philosophie & Politique ::: ::: preamble\_\_entry
+privé / a-lire ::: ::::: :::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+chatlog :::::::::::: chatlog\_\_message-group :::::::::::
+{#chatlog\_\_message-container-1267968925203693679
+.chatlog\_\_message-container message-id=\"1267968925203693679\"}
+:::::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007069314525966408/14f3ab257026923abbb260cc2e181ae0.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: :::::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[Feed Supplier\]{.chatlog\_\_author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[\[31/07/2024
+00:15\](#chatlog\_\_message-container-1267968925203693679)\]{.chatlog\_\_timestamp
+title=\"mercredi 31 juillet 2024 00:15\"} ::: ::::::
+chatlog\_\_attachment ::::: chatlog\_\_attachment-generic
+\![\](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iY2hhdGxvZ19fYXR0YWNobWVudC1nZW5lcmljLWljb24iPjx1c2UgaHJlZj0iI2F0dGFjaG1lbnQtaWNvbiIgLz48L3N2Zz4=){.chatlog\_\_attachment-generic-icon}
+::: chatlog\_\_attachment-generic-name
+\[UnbrandingLiberation_NEWSPRINTDD4_2024.pdf\](https://cdn.discordapp.com/attachments/1257787252952662167/1267968924696318002/UnbrandingLiberation_NEWSPRINTDD4_2024.pdf?ex=67b45dd5&is=67b30c55&hm=7d313c2ac32340fdc995481ce105dfcedc071915e82de5a98d6f0981c44dcfc4&)
+::: ::: chatlog\_\_attachment-generic-size 558.3 KB ::: ::::: ::::::
+:::::::: :::::::::: ::::::::::: :::::::::::: :::::::::::::::::::::::::::
+chatlog\_\_message-group ::::::
+{#chatlog\_\_message-container-1268975463024295987
+.chatlog\_\_message-container message-id=\"1268975463024295987\"} :::::
+chatlog\_\_message ::: chatlog\_\_message-aside
+\![\](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iY2hhdGxvZ19fc3lzdGVtLW5vdGlmaWNhdGlvbi1pY29uIj48dXNlIGhyZWY9IiN0aHJlYWQtaWNvbiIgLz48L3N2Zz4=){.chatlog\_\_system-notification-icon}
+::: ::: chatlog\_\_message-primary \[Feed
+Supplier\]{.chatlog\_\_system-notification-author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[ started a thread.
+\]{.chatlog\_\_system-notification-content} \[ \[02/08/2024
+18:55\](#chatlog\_\_message-container-1268975463024295987)
+\]{.chatlog\_\_system-notification-timestamp title=\"vendredi 2 août
+2024 18:55\"} ::: ::::: :::::: ::::::
+{#chatlog\_\_message-container-1268975590745178152
+.chatlog\_\_message-container message-id=\"1268975590745178152\"} :::::
+chatlog\_\_message ::: chatlog\_\_message-aside
+\![\](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iY2hhdGxvZ19fc3lzdGVtLW5vdGlmaWNhdGlvbi1pY29uIj48dXNlIGhyZWY9IiN0aHJlYWQtaWNvbiIgLz48L3N2Zz4=){.chatlog\_\_system-notification-icon}
+::: ::: chatlog\_\_message-primary \[Feed
+Supplier\]{.chatlog\_\_system-notification-author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[ started a thread.
+\]{.chatlog\_\_system-notification-content} \[ \[02/08/2024
+18:55\](#chatlog\_\_message-container-1268975590745178152)
+\]{.chatlog\_\_system-notification-timestamp title=\"vendredi 2 août
+2024 18:55\"} ::: ::::: :::::: ::::::
+{#chatlog\_\_message-container-1268975683770519552
+.chatlog\_\_message-container message-id=\"1268975683770519552\"} :::::
+chatlog\_\_message ::: chatlog\_\_message-aside
+\![\](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iY2hhdGxvZ19fc3lzdGVtLW5vdGlmaWNhdGlvbi1pY29uIj48dXNlIGhyZWY9IiN0aHJlYWQtaWNvbiIgLz48L3N2Zz4=){.chatlog\_\_system-notification-icon}
+::: ::: chatlog\_\_message-primary \[Feed
+Supplier\]{.chatlog\_\_system-notification-author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[ started a thread.
+\]{.chatlog\_\_system-notification-content} \[ \[02/08/2024
+18:56\](#chatlog\_\_message-container-1268975683770519552)
+\]{.chatlog\_\_system-notification-timestamp title=\"vendredi 2 août
+2024 18:56\"} ::: ::::: :::::: ::::::
+{#chatlog\_\_message-container-1268975875999797379
+.chatlog\_\_message-container message-id=\"1268975875999797379\"} :::::
+chatlog\_\_message ::: chatlog\_\_message-aside
+\![\](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iY2hhdGxvZ19fc3lzdGVtLW5vdGlmaWNhdGlvbi1pY29uIj48dXNlIGhyZWY9IiN0aHJlYWQtaWNvbiIgLz48L3N2Zz4=){.chatlog\_\_system-notification-icon}
+::: ::: chatlog\_\_message-primary \[Feed
+Supplier\]{.chatlog\_\_system-notification-author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[ started a thread.
+\]{.chatlog\_\_system-notification-content} \[ \[02/08/2024
+18:57\](#chatlog\_\_message-container-1268975875999797379)
+\]{.chatlog\_\_system-notification-timestamp title=\"vendredi 2 août
+2024 18:57\"} ::: ::::: :::::: ::::::
+{#chatlog\_\_message-container-1268976560346501160
+.chatlog\_\_message-container message-id=\"1268976560346501160\"} :::::
+chatlog\_\_message ::: chatlog\_\_message-aside
+\![\](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iY2hhdGxvZ19fc3lzdGVtLW5vdGlmaWNhdGlvbi1pY29uIj48dXNlIGhyZWY9IiN0aHJlYWQtaWNvbiIgLz48L3N2Zz4=){.chatlog\_\_system-notification-icon}
+::: ::: chatlog\_\_message-primary \[Feed
+Supplier\]{.chatlog\_\_system-notification-author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[ started a thread.
+\]{.chatlog\_\_system-notification-content} \[ \[02/08/2024
+18:59\](#chatlog\_\_message-container-1268976560346501160)
+\]{.chatlog\_\_system-notification-timestamp title=\"vendredi 2 août
+2024 18:59\"} ::: ::::: :::::: ::::::
+{#chatlog\_\_message-container-1268976899485470863
+.chatlog\_\_message-container message-id=\"1268976899485470863\"} :::::
+chatlog\_\_message ::: chatlog\_\_message-aside
+\![\](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iY2hhdGxvZ19fc3lzdGVtLW5vdGlmaWNhdGlvbi1pY29uIj48dXNlIGhyZWY9IiN0aHJlYWQtaWNvbiIgLz48L3N2Zz4=){.chatlog\_\_system-notification-icon}
+::: ::: chatlog\_\_message-primary \[Feed
+Supplier\]{.chatlog\_\_system-notification-author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[ started a thread.
+\]{.chatlog\_\_system-notification-content} \[ \[02/08/2024
+19:01\](#chatlog\_\_message-container-1268976899485470863)
+\]{.chatlog\_\_system-notification-timestamp title=\"vendredi 2 août
+2024 19:01\"} ::: ::::: :::::: :::::::::::::::::::::::::::
+::::::::::::::::::::::: chatlog\_\_message-group ::::::::::::::::::::::
+{#chatlog\_\_message-container-1268990739862388736
+.chatlog\_\_message-container message-id=\"1268990739862388736\"}
+::::::::::::::::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007069314525966408/14f3ab257026923abbb260cc2e181ae0.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: ::::::::::::::::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[Feed Supplier\]{.chatlog\_\_author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[\[02/08/2024
+19:56\](#chatlog\_\_message-container-1268990739862388736)\]{.chatlog\_\_timestamp
+title=\"vendredi 2 août 2024 19:56\"} ::: ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[Pourquoi la gauche bourgeoise ne voit pas sa
+propre fascisation \]{.chatlog\_\_markdown-preserve} :::
+:::::::::::::::: chatlog\_\_embed ::: {.chatlog\_\_embed-color-pill
+style=\"background-color:rgba(206,0,114,255)\"} ::: ::::::::::::::
+chatlog\_\_embed-content-container :::::::::::: chatlog\_\_embed-content
+::::::::::: chatlog\_\_embed-text :::: chatlog\_\_embed-author-container
+\[\](https://www.instagram.com/agitprop.n.absurdity.3){.chatlog\_\_embed-author-link}
+::: chatlog\_\_embed-author agitprop.n.absurdity.3 ::: :::: ::::::::
+chatlog\_\_embed-fields ::::::: {.chatlog\_\_embed-field
+.chatlog\_\_embed-field\--inline} :::: chatlog\_\_embed-field-name :::
+{.chatlog\_\_markdown .chatlog\_\_markdown-preserve} Likes ::: :::: ::::
+chatlog\_\_embed-field-value ::: {.chatlog\_\_markdown
+.chatlog\_\_markdown-preserve} 721 ::: :::: ::::::: :::::::: :::::::::::
+:::::::::::: ::: chatlog\_\_embed-footer \![Footer
+icon\](https://images-ext-1.discordapp.net/external/C6jCIKlXguRhfmSp6USkbWsS11fnsbBgMXiclR2R4ps/https/www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png){.chatlog\_\_embed-footer-icon
+loading=\"lazy\"} \[ Instagram \]{.chatlog\_\_embed-footer-text} :::
+:::::::::::::: :::::::::::::::: :::::::::::::::::::
+::::::::::::::::::::: :::::::::::::::::::::: :::::::::::::::::::::::
+:::::::::::::::::: chatlog\_\_message-group :::::::::::::::::
+{#chatlog\_\_message-container-1271893623247474871
+.chatlog\_\_message-container message-id=\"1271893623247474871\"}
+:::::::::::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007069314525966408/14f3ab257026923abbb260cc2e181ae0.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: :::::::::::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[Feed Supplier\]{.chatlog\_\_author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[\[10/08/2024
+20:11\](#chatlog\_\_message-container-1271893623247474871)\]{.chatlog\_\_timestamp
+title=\"samedi 10 août 2024 20:11\"} ::: ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[\]{.chatlog\_\_markdown-preserve} :::
+::::::::::: chatlog\_\_embed ::: {.chatlog\_\_embed-color-pill
+.chatlog\_\_embed-color-pill\--default} ::: :::::::::
+chatlog\_\_embed-content-container :::::::: chatlog\_\_embed-content
+::::::: chatlog\_\_embed-text :::: chatlog\_\_embed-title
+\[\](https://www.editionsladecouverte.fr/la_septieme_arme-9782707194435){.chatlog\_\_embed-title-link}
+::: {.chatlog\_\_markdown .chatlog\_\_markdown-preserve} La septième
+arme - David Servenay, Jake Raynal - Éditions La Découv\\\... ::: ::::
+:::: chatlog\_\_embed-description ::: {.chatlog\_\_markdown
+.chatlog\_\_markdown-preserve} : Et si les militaires prenaient le
+pouvoir ? Loin du fantasme complotiste, cette éventualité se nourrit de
+l\\\'histoire même de la Septième arme, doctrine de guerre
+contre-insurrectionnelle forgée par les militaires français en Indochine
+et en Algérie. À l\\\'heure où l\\\'on met en place un état
+d\\\'exception permanent, La septième arme raconte une aut\\\... :::
+:::: ::::::: :::::::: ::::::::: ::::::::::: ::::::::::::::
+:::::::::::::::: ::::::::::::::::: ::::::::::::::::::
+::::::::::::::::::: chatlog\_\_message-group ::::::::::::::::::
+{#chatlog\_\_message-container-1272565105351196763
+.chatlog\_\_message-container message-id=\"1272565105351196763\"}
+::::::::::::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007069314525966408/14f3ab257026923abbb260cc2e181ae0.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: ::::::::::::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[Feed Supplier\]{.chatlog\_\_author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[\[12/08/2024
+16:39\](#chatlog\_\_message-container-1272565105351196763)\]{.chatlog\_\_timestamp
+title=\"lundi 12 août 2024 16:39\"} ::: ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[\]{.chatlog\_\_markdown-preserve} :::
+:::::::::::: chatlog\_\_embed ::: {.chatlog\_\_embed-color-pill
+style=\"background-color:rgba(206,0,114,255)\"} ::: ::::::::::
+chatlog\_\_embed-content-container :::::::: chatlog\_\_embed-content
+::::::: chatlog\_\_embed-text :::: chatlog\_\_embed-author-container
+\![Author
+icon\](https://images-ext-1.discordapp.net/external/F7d5GmZXOF35Rd5kZkOWz4KSdxJkrr-UjlqbzZ8IxcQ/%3Fstp%3Ddst-jpg_s150x150%26_nc_ht%3Dscontent.cdninstagram.com%26_nc_cat%3D110%26_nc_ohc%3D5KIulMalPb8Q7kNvgFBjs-B%26edm%3DAPs17CUBAAAA%26ccb%3D7-5%26oh%3D00_AYDd0hZINeWNnpQuEhHXoAwclsAc9A-bfrcmkbZkcl8VKw%26oe%3D66BFEFBD%26_nc_sid%3D10d13b/https/scontent.cdninstagram.com/v/t51.2885-19/422216004_229181020274014_7069530219049236636_n.jpg){.chatlog\_\_embed-author-icon
+loading=\"lazy\" onerror=\"this.style.visibility=\'hidden\'\"}
+\[\](https://www.instagram.com/red_maat){.chatlog\_\_embed-author-link}
+::: chatlog\_\_embed-author red_maat ::: :::: ::::
+chatlog\_\_embed-description ::: {.chatlog\_\_markdown
+.chatlog\_\_markdown-preserve} \"The language of horror experienced in
+Sudan and Palestine overlaps in terrible ways: for this batch of
+articles, I\'ve read so much about famine, about displacement, about
+unimaginable heat and the impossibility of food, the scarcity of aid and
+its inadequacy to address the lived realities experienced on the ground,
+grief, loss, and a grief so w\\\... ::: :::: ::::::: :::::::: :::
+chatlog\_\_embed-footer \![Footer
+icon\](https://images-ext-1.discordapp.net/external/C6jCIKlXguRhfmSp6USkbWsS11fnsbBgMXiclR2R4ps/https/www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png){.chatlog\_\_embed-footer-icon
+loading=\"lazy\"} \[ Instagram \]{.chatlog\_\_embed-footer-text} :::
+:::::::::: :::::::::::: ::::::::::::::: :::::::::::::::::
+:::::::::::::::::: ::::::::::::::::::: :::::::::::::::::::::
+chatlog\_\_message-group ::::::::::::::::::::
+{#chatlog\_\_message-container-1277444493834063996
+.chatlog\_\_message-container message-id=\"1277444493834063996\"}
+::::::::::::::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007069314525966408/14f3ab257026923abbb260cc2e181ae0.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: ::::::::::::::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[Feed Supplier\]{.chatlog\_\_author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[\[26/08/2024
+03:48\](#chatlog\_\_message-container-1277444493834063996)\]{.chatlog\_\_timestamp
+title=\"lundi 26 août 2024 03:48\"} ::: ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[\]{.chatlog\_\_markdown-preserve} :::
+:::::::::::::: chatlog\_\_embed ::: {.chatlog\_\_embed-color-pill
+style=\"background-color:rgba(206,0,114,255)\"} ::: ::::::::::::
+chatlog\_\_embed-content-container :::::::: chatlog\_\_embed-content
+::::::: chatlog\_\_embed-text :::: chatlog\_\_embed-author-container
+\[\](https://www.instagram.com/hayhatminnadhillaa){.chatlog\_\_embed-author-link}
+::: chatlog\_\_embed-author hayhatminnadhillaa ::: :::: ::::
+chatlog\_\_embed-description ::: {.chatlog\_\_markdown
+.chatlog\_\_markdown-preserve} The Axis of Resistance Part 3: Islamic
+Resistance in Iraq ::: :::: ::::::: :::::::: ::::
+{.chatlog\_\_embed-images .chatlog\_\_embed-images\--single} :::
+chatlog\_\_embed-image-container
+\[\![Image\](https://images-ext-1.discordapp.net/external/SaBSq8eokdtYaOyFKW1gvLISa1W46zQ6f-iIRqxcjnQ/%3Fstp%3Ddst-jpg_e35%26_nc_ht%3Dscontent.cdninstagram.com%26_nc_cat%3D102%26_nc_ohc%3Dhyl4BD6KU7oQ7kNvgGTCpDG%26edm%3DAPs17CUBAAAA%26ccb%3D7-5%26oh%3D00_AYAfLseNAXOfkJgMJxhtw9QLkig-MDRCIGfesH3Ra70PVA%26oe%3D66D1B783%26_nc_sid%3D10d13b/https/scontent.cdninstagram.com/v/t51.29350-15/456889511_1543943329528838_8269935611252916242_n.jpg){.chatlog\_\_embed-image
+loading=\"lazy\"}\](https://images-ext-1.discordapp.net/external/SaBSq8eokdtYaOyFKW1gvLISa1W46zQ6f-iIRqxcjnQ/%3Fstp%3Ddst-jpg_e35%26_nc_ht%3Dscontent.cdninstagram.com%26_nc_cat%3D102%26_nc_ohc%3Dhyl4BD6KU7oQ7kNvgGTCpDG%26edm%3DAPs17CUBAAAA%26ccb%3D7-5%26oh%3D00_AYAfLseNAXOfkJgMJxhtw9QLkig-MDRCIGfesH3Ra70PVA%26oe%3D66D1B783%26_nc_sid%3D10d13b/https/scontent.cdninstagram.com/v/t51.29350-15/456889511_1543943329528838_8269935611252916242_n.jpg){.chatlog\_\_embed-image-link}
+::: :::: ::: chatlog\_\_embed-footer \![Footer
+icon\](https://images-ext-1.discordapp.net/external/C6jCIKlXguRhfmSp6USkbWsS11fnsbBgMXiclR2R4ps/https/www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png){.chatlog\_\_embed-footer-icon
+loading=\"lazy\"} \[ Instagram \]{.chatlog\_\_embed-footer-text} :::
+:::::::::::: :::::::::::::: ::::::::::::::::: :::::::::::::::::::
+:::::::::::::::::::: ::::::::::::::::::::: :::::::::::::::::::::::::
+chatlog\_\_message-group ::::::::::::::::::::::::
+{#chatlog\_\_message-container-1277636016567746652
+.chatlog\_\_message-container message-id=\"1277636016567746652\"}
+::::::::::::::::::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007069314525966408/14f3ab257026923abbb260cc2e181ae0.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: ::::::::::::::::::::: chatlog\_\_message-primary
+::: chatlog\_\_header \[Feed Supplier\]{.chatlog\_\_author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[\[26/08/2024
+16:29\](#chatlog\_\_message-container-1277636016567746652)\]{.chatlog\_\_timestamp
+title=\"lundi 26 août 2024 16:29\"} ::: ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[\]{.chatlog\_\_markdown-preserve} :::
+:::::::::::::::::: chatlog\_\_embed ::: {.chatlog\_\_embed-color-pill
+style=\"background-color:rgba(206,0,114,255)\"} ::: ::::::::::::::::
+chatlog\_\_embed-content-container ::::::::::::::
+chatlog\_\_embed-content ::::::::::::: chatlog\_\_embed-text ::::
+chatlog\_\_embed-author-container
+\[\](https://www.instagram.com/forsudaneseliberation){.chatlog\_\_embed-author-link}
+::: chatlog\_\_embed-author forsudaneseliberation ::: :::: ::::
+chatlog\_\_embed-description ::: {.chatlog\_\_markdown
+.chatlog\_\_markdown-preserve} Today marks the 500th day of the brutal
+proxy war in Sudan. Our timeline traces the critical events from 1989,
+highlighting the political and social upheavals that have shaped the
+nation\'s turmoil. From the rise of Omar al-Bashir and the long-standing
+tensions between different factions, to the recent escalations that have
+led to the current cri\\\... ::: :::: :::::::: chatlog\_\_embed-fields
+::::::: {.chatlog\_\_embed-field .chatlog\_\_embed-field\--inline} ::::
+chatlog\_\_embed-field-name ::: {.chatlog\_\_markdown
+.chatlog\_\_markdown-preserve} Likes ::: :::: ::::
+chatlog\_\_embed-field-value ::: {.chatlog\_\_markdown
+.chatlog\_\_markdown-preserve} 684 ::: :::: ::::::: ::::::::
+::::::::::::: :::::::::::::: ::: chatlog\_\_embed-footer \![Footer
+icon\](https://images-ext-1.discordapp.net/external/C6jCIKlXguRhfmSp6USkbWsS11fnsbBgMXiclR2R4ps/https/www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png){.chatlog\_\_embed-footer-icon
+loading=\"lazy\"} \[ Instagram \]{.chatlog\_\_embed-footer-text} :::
+:::::::::::::::: :::::::::::::::::: :::::::::::::::::::::
+::::::::::::::::::::::: ::::::::::::::::::::::::
+::::::::::::::::::::::::: ::::::::::::::::::: chatlog\_\_message-group
+:::::::::::::::::: {#chatlog\_\_message-container-1285014849721733161
+.chatlog\_\_message-container message-id=\"1285014849721733161\"}
+::::::::::::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007069314525966408/14f3ab257026923abbb260cc2e181ae0.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: ::::::::::::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[Feed Supplier\]{.chatlog\_\_author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[\[16/09/2024
+01:10\](#chatlog\_\_message-container-1285014849721733161)\]{.chatlog\_\_timestamp
+title=\"lundi 16 septembre 2024 01:10\"} ::: ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[ duo ac texte
+genocide\]{.chatlog\_\_markdown-preserve} ::: ::::::::::::
+chatlog\_\_embed ::: {.chatlog\_\_embed-color-pill
+style=\"background-color:rgba(29,161,242,255)\"} ::: ::::::::::
+chatlog\_\_embed-content-container :::::::: chatlog\_\_embed-content
+::::::: chatlog\_\_embed-text :::: chatlog\_\_embed-title
+\[\](https://twitter.com/campvolant/status/1835432213548331314?t=3MO-3LTWNAuM50qOSECTcA&s=19){.chatlog\_\_embed-title-link}
+::: {.chatlog\_\_markdown .chatlog\_\_markdown-preserve} Fabrice
+Riceputi (@campvolant) on X ::: :::: :::: chatlog\_\_embed-description
+::: {.chatlog\_\_markdown .chatlog\_\_markdown-preserve} Absolument. Et
+si tu agissais pour celles de Gaza aujourd\\\'hui ? ::: :::: :::::::
+:::::::: ::: chatlog\_\_embed-footer \![Footer
+icon\](https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png){.chatlog\_\_embed-footer-icon
+loading=\"lazy\"} \[ Twitter • 15/09/2024 23:35
+\]{.chatlog\_\_embed-footer-text} ::: :::::::::: ::::::::::::
+::::::::::::::: ::::::::::::::::: :::::::::::::::::: :::::::::::::::::::
+:::::::::::::::::: chatlog\_\_message-group :::::::::::::::::
+{#chatlog\_\_message-container-1300890250557521931
+.chatlog\_\_message-container message-id=\"1300890250557521931\"}
+:::::::::::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007069314525966408/14f3ab257026923abbb260cc2e181ae0.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: :::::::::::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[Feed Supplier\]{.chatlog\_\_author
+style=\"color:rgb(158,97,97)\" title=\"user.\_909\"
+user-id=\"1007069314525966408\"} \[\[29/10/2024
+19:33\](#chatlog\_\_message-container-1300890250557521931)\]{.chatlog\_\_timestamp
+title=\"mardi 29 octobre 2024 19:33\"} ::: ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[\]{.chatlog\_\_markdown-preserve} :::
+::::::::::: chatlog\_\_embed ::: {.chatlog\_\_embed-color-pill
+style=\"background-color:rgba(26,26,26,255)\"} ::: :::::::::
+chatlog\_\_embed-content-container :::::::: chatlog\_\_embed-content
+::::::: chatlog\_\_embed-text :::: chatlog\_\_embed-title
+\[\](https://www.retronews.fr/edito/francois-mitterrand-lecho-de-paris-1936-1937){.chatlog\_\_embed-title-link}
+::: {.chatlog\_\_markdown .chatlog\_\_markdown-preserve} François
+Mitterrand à L\'Écho de Paris : 1936-1937 ::: :::: ::::
+chatlog\_\_embed-description ::: {.chatlog\_\_markdown
+.chatlog\_\_markdown-preserve} Pendant un peu moins d\\\'une année, le
+futur président de la République a écrit dans la rubrique \\\"La vie des
+étudiants\\\" de ce quotidien proche de la droite nationaliste. ::: ::::
+::::::: :::::::: ::::::::: ::::::::::: :::::::::::::: ::::::::::::::::
+::::::::::::::::: :::::::::::::::::: :::::::::::::::::::::::::::
+chatlog\_\_message-group :::::::::::
+{#chatlog\_\_message-container-1310023654251298879
+.chatlog\_\_message-container message-id=\"1310023654251298879\"}
+:::::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007046225436086303/9d07e26068e83989deaba3fd61af32b1.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: :::::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[Philotic\]{.chatlog\_\_author
+style=\"color:rgb(158,108,108)\" title=\"phil0tic\"
+user-id=\"1007046225436086303\"} \[\[24/11/2024
+00:26\](#chatlog\_\_message-container-1310023654251298879)\]{.chatlog\_\_timestamp
+title=\"dimanche 24 novembre 2024 00:26\"} ::: ::::::
+chatlog\_\_attachment ::::: chatlog\_\_attachment-generic
+\![\](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iY2hhdGxvZ19fYXR0YWNobWVudC1nZW5lcmljLWljb24iPjx1c2UgaHJlZj0iI2F0dGFjaG1lbnQtaWNvbiIgLz48L3N2Zz4=){.chatlog\_\_attachment-generic-icon}
+::: chatlog\_\_attachment-generic-name
+\[009561ar.pdf\](https://cdn.discordapp.com/attachments/1257787252952662167/1310023653919952966/009561ar.pdf?ex=67b46e5a&is=67b31cda&hm=562640f75399f143f85653c7dcaecfcb1e6ff87f4bff3c497e0305b821312a5d&)
+::: ::: chatlog\_\_attachment-generic-size 565.34 KB ::: ::::: ::::::
+:::::::: :::::::::: ::::::::::: ::::::::
+{#chatlog\_\_message-container-1310023680201326704
+.chatlog\_\_message-container message-id=\"1310023680201326704\"}
+::::::: chatlog\_\_message :::: chatlog\_\_message-aside :::
+{.chatlog\_\_short-timestamp title=\"dimanche 24 novembre 2024 00:26\"}
+00:26 ::: :::: :::: chatlog\_\_message-primary ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[spinoza mort\]{.chatlog\_\_markdown-preserve}
+::: :::: ::::::: :::::::: :::::::::::
+{#chatlog\_\_message-container-1310024831206428783
+.chatlog\_\_message-container message-id=\"1310024831206428783\"}
+:::::::::: chatlog\_\_message :::: chatlog\_\_message-aside :::
+{.chatlog\_\_short-timestamp title=\"dimanche 24 novembre 2024 00:30\"}
+00:30 ::: :::: ::::::: chatlog\_\_message-primary ::::::
+chatlog\_\_attachment ::::: chatlog\_\_attachment-generic
+\![\](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iY2hhdGxvZ19fYXR0YWNobWVudC1nZW5lcmljLWljb24iPjx1c2UgaHJlZj0iI2F0dGFjaG1lbnQtaWNvbiIgLz48L3N2Zz4=){.chatlog\_\_attachment-generic-icon}
+::: chatlog\_\_attachment-generic-name
+\[FPLP-EnnemisDeLaRevolutionPalestinienne-Habash.pdf\](https://cdn.discordapp.com/attachments/1257787252952662167/1310024830879531038/FPLP-EnnemisDeLaRevolutionPalestinienne-Habash.pdf?ex=67b46f72&is=67b31df2&hm=bb272ab1571ced111899468e0dd4a42e47af20d303ea067d5adf4c6db835c2a5&)
+::: ::: chatlog\_\_attachment-generic-size 930.16 KB ::: ::::: ::::::
+::::::: :::::::::: ::::::::::: ::::::::::::::::::::::::::: :::::::::
+chatlog\_\_message-group ::::::::
+{#chatlog\_\_message-container-1317871087450853399
+.chatlog\_\_message-container message-id=\"1317871087450853399\"}
+::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007046225436086303/9d07e26068e83989deaba3fd61af32b1.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: ::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[Philotic\]{.chatlog\_\_author
+style=\"color:rgb(158,108,108)\" title=\"phil0tic\"
+user-id=\"1007046225436086303\"} \[\[15/12/2024
+16:09\](#chatlog\_\_message-container-1317871087450853399)\]{.chatlog\_\_timestamp
+title=\"dimanche 15 décembre 2024 16:09\"} ::: ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[\]{.chatlog\_\_markdown-preserve} ::: :::::
+::::::: :::::::: ::::::::: ::::::::::::::::::: chatlog\_\_message-group
+:::::::::::::::::: {#chatlog\_\_message-container-1317961480737394868
+.chatlog\_\_message-container message-id=\"1317961480737394868\"}
+::::::::::::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007046225436086303/9d07e26068e83989deaba3fd61af32b1.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: ::::::::::::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[Philotic\]{.chatlog\_\_author
+style=\"color:rgb(158,108,108)\" title=\"phil0tic\"
+user-id=\"1007046225436086303\"} \[\[15/12/2024
+22:08\](#chatlog\_\_message-container-1317961480737394868)\]{.chatlog\_\_timestamp
+title=\"dimanche 15 décembre 2024 22:08\"} ::: ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[\]{.chatlog\_\_markdown-preserve} :::
+:::::::::::: chatlog\_\_embed ::: {.chatlog\_\_embed-color-pill
+style=\"background-color:rgba(255,255,255,255)\"} ::: ::::::::::
+chatlog\_\_embed-content-container ::::::::: chatlog\_\_embed-content
+::::::: chatlog\_\_embed-text :::: chatlog\_\_embed-title
+\[\](https://lvsl.fr/trump-2-0-le-parti-democrate-se-relevera-t-il/){.chatlog\_\_embed-title-link}
+::: {.chatlog\_\_markdown .chatlog\_\_markdown-preserve} Trump 2.0 : le
+Parti démocrate se relèvera-t-il ? ::: :::: ::::
+chatlog\_\_embed-description ::: {.chatlog\_\_markdown
+.chatlog\_\_markdown-preserve} Pour de nombreux électeurs, le Parti
+démocrate est devenu le parti des classes aisées, de la guerre, des
+banques, du FBI et du décorum politique. Alors que ::: :::: ::::::: :::
+chatlog\_\_embed-thumbnail-container
+\[\![Thumbnail\](https://images-ext-1.discordapp.net/external/pzAG0vX9CHJ6L1mQNM8q_2C2TtEejlRChF8DBDL_jow/https/lvsl.fr/wp-content/uploads/2024/12/Trump-Biden-Le-Vent-Se-Leve.jpg){.chatlog\_\_embed-thumbnail
+loading=\"lazy\"}\](https://images-ext-1.discordapp.net/external/pzAG0vX9CHJ6L1mQNM8q_2C2TtEejlRChF8DBDL_jow/https/lvsl.fr/wp-content/uploads/2024/12/Trump-Biden-Le-Vent-Se-Leve.jpg){.chatlog\_\_embed-thumbnail-link}
+::: ::::::::: :::::::::: :::::::::::: ::::::::::::::: :::::::::::::::::
+:::::::::::::::::: ::::::::::::::::::: :::::::::::::::::::
+chatlog\_\_message-group ::::::::::::::::::
+{#chatlog\_\_message-container-1334618872636117063
+.chatlog\_\_message-container message-id=\"1334618872636117063\"}
+::::::::::::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007046225436086303/9d07e26068e83989deaba3fd61af32b1.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: ::::::::::::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[Philotic\]{.chatlog\_\_author
+style=\"color:rgb(158,108,108)\" title=\"phil0tic\"
+user-id=\"1007046225436086303\"} \[\[30/01/2025
+21:18\](#chatlog\_\_message-container-1334618872636117063)\]{.chatlog\_\_timestamp
+title=\"jeudi 30 janvier 2025 21:18\"} ::: ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[\]{.chatlog\_\_markdown-preserve} :::
+:::::::::::: chatlog\_\_embed ::: {.chatlog\_\_embed-color-pill
+.chatlog\_\_embed-color-pill\--default} ::: ::::::::::
+chatlog\_\_embed-content-container ::::::::: chatlog\_\_embed-content
+::::::: chatlog\_\_embed-text :::: chatlog\_\_embed-title
+\[\](https://journals.openedition.org/insaniyat/14852?lang=en){.chatlog\_\_embed-title-link}
+::: {.chatlog\_\_markdown .chatlog\_\_markdown-preserve} Colonisation,
+indépendance et développement humain en Algérie : que\\\... ::: ::::
+:::: chatlog\_\_embed-description ::: {.chatlog\_\_markdown
+.chatlog\_\_markdown-preserve} Introduction Cinq années après avoir fini
+par substituer le terme de Guerre d\'Algérie à l\'expression Opérations
+effectuées en Afrique du nord, par la loi d\'octobre 1999, le parlement
+français, dans\\\... ::: :::: ::::::: :::
+chatlog\_\_embed-thumbnail-container
+\[\![Thumbnail\](https://images-ext-1.discordapp.net/external/\--qggEQVyKGMVk9oT9AMWSXk9a8UfEj4PiMnBr4DlyY/https/www.openedition.org/docannexe/image/10052/insaniyat_160x75.png){.chatlog\_\_embed-thumbnail
+loading=\"lazy\"}\](https://images-ext-1.discordapp.net/external/\--qggEQVyKGMVk9oT9AMWSXk9a8UfEj4PiMnBr4DlyY/https/www.openedition.org/docannexe/image/10052/insaniyat_160x75.png){.chatlog\_\_embed-thumbnail-link}
+::: ::::::::: :::::::::: :::::::::::: ::::::::::::::: :::::::::::::::::
+:::::::::::::::::: ::::::::::::::::::: :::::::::::::::::::
+chatlog\_\_message-group ::::::::::::::::::
+{#chatlog\_\_message-container-1335278717324497017
+.chatlog\_\_message-container message-id=\"1335278717324497017\"}
+::::::::::::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007046225436086303/9d07e26068e83989deaba3fd61af32b1.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: ::::::::::::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[Philotic\]{.chatlog\_\_author
+style=\"color:rgb(158,108,108)\" title=\"phil0tic\"
+user-id=\"1007046225436086303\"} \[\[01/02/2025
+17:00\](#chatlog\_\_message-container-1335278717324497017)\]{.chatlog\_\_timestamp
+title=\"samedi 1 février 2025 17:00\"} ::: ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[\]{.chatlog\_\_markdown-preserve} :::
+:::::::::::: chatlog\_\_embed ::: {.chatlog\_\_embed-color-pill
+.chatlog\_\_embed-color-pill\--default} ::: ::::::::::
+chatlog\_\_embed-content-container ::::::::: chatlog\_\_embed-content
+::::::: chatlog\_\_embed-text :::: chatlog\_\_embed-title
+\[\](https://redsails.org/another-view-of-tiananmen/){.chatlog\_\_embed-title-link}
+::: {.chatlog\_\_markdown .chatlog\_\_markdown-preserve} Another View of
+Tiananmen ::: :::: :::: chatlog\_\_embed-description :::
+{.chatlog\_\_markdown .chatlog\_\_markdown-preserve} Most of what we
+hear about Tiananmen in 1989 focuses on student activists, since they
+dominated Tiananmen square itself and waved banners demanding \"freedom
+and democracy.\" However, the real history of the protests is a bit more
+complex. ::: :::: ::::::: ::: chatlog\_\_embed-thumbnail-container
+\[\![Thumbnail\](https://images-ext-1.discordapp.net/external/LplmdQLFeXtzHAUPYP8w-HmFfinN1hyMWAfDKU55XY0/https/redsails.org/static/social.png){.chatlog\_\_embed-thumbnail
+loading=\"lazy\"}\](https://images-ext-1.discordapp.net/external/LplmdQLFeXtzHAUPYP8w-HmFfinN1hyMWAfDKU55XY0/https/redsails.org/static/social.png){.chatlog\_\_embed-thumbnail-link}
+::: ::::::::: :::::::::: :::::::::::: ::::::::::::::: :::::::::::::::::
+:::::::::::::::::: ::::::::::::::::::: :::::::::::::::::::::::::
+chatlog\_\_message-group ::::::::
+{#chatlog\_\_message-container-1339547263063687188
+.chatlog\_\_message-container message-id=\"1339547263063687188\"}
+::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/avatars/1007046225436086303/9d07e26068e83989deaba3fd61af32b1.png?size=512){.chatlog\_\_avatar
+loading=\"lazy\"} ::: ::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[Philotic\]{.chatlog\_\_author
+style=\"color:rgb(158,108,108)\" title=\"phil0tic\"
+user-id=\"1007046225436086303\"} \[\[13/02/2025
+11:42\](#chatlog\_\_message-container-1339547263063687188)\]{.chatlog\_\_timestamp
+title=\"jeudi 13 février 2025 11:42\"} ::: ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[\]{.chatlog\_\_markdown-preserve} ::: :::::
+::::::: :::::::: ::::::::::::::::::
+{#chatlog\_\_message-container-1339547443246665779
+.chatlog\_\_message-container message-id=\"1339547443246665779\"}
+::::::::::::::::: chatlog\_\_message :::: chatlog\_\_message-aside :::
+{.chatlog\_\_short-timestamp title=\"jeudi 13 février 2025 11:43\"}
+11:43 ::: :::: :::::::::::::: chatlog\_\_message-primary :::
+{.chatlog\_\_content .chatlog\_\_markdown}
+\[\]{.chatlog\_\_markdown-preserve} ::: :::::::::::: chatlog\_\_embed
+::: {.chatlog\_\_embed-color-pill
+.chatlog\_\_embed-color-pill\--default} ::: ::::::::::
+chatlog\_\_embed-content-container ::::::::: chatlog\_\_embed-content
+::::::: chatlog\_\_embed-text :::: chatlog\_\_embed-title
+\[\](https://web.archive.org/web/20250129175029/https://jacobin.com/2025/01/us-foreign-aid-imperialism-humanitarianism){.chatlog\_\_embed-title-link}
+::: {.chatlog\_\_markdown .chatlog\_\_markdown-preserve} US Foreign Aid
+Was Always About Furthering US Interests ::: :::: ::::
+chatlog\_\_embed-description ::: {.chatlog\_\_markdown
+.chatlog\_\_markdown-preserve} Donald Trump\'s freezing of US foreign
+aid has set off alarms across the foreign policy establishment \-\--
+largely because aid has been such an effective means of furthering US
+and European geopolitical interests, especially in Latin America. :::
+:::: ::::::: ::: chatlog\_\_embed-thumbnail-container
+\[\![Thumbnail\](https://images-ext-1.discordapp.net/external/Vmf1xK-xW18PmqjzsSXb-bqHtivePk4yUXTdRVdU7Uw/https/web.archive.org/web/20250129175029im\_/https%3A/images.jacobinmag.com/wp-content/uploads/2025/01/29113543/GettyImages-2195558789.jpg){.chatlog\_\_embed-thumbnail
+loading=\"lazy\"}\](https://images-ext-1.discordapp.net/external/Vmf1xK-xW18PmqjzsSXb-bqHtivePk4yUXTdRVdU7Uw/https/web.archive.org/web/20250129175029im\_/https%3A/images.jacobinmag.com/wp-content/uploads/2025/01/29113543/GettyImages-2195558789.jpg){.chatlog\_\_embed-thumbnail-link}
+::: ::::::::: :::::::::: :::::::::::: :::::::::::::: :::::::::::::::::
+:::::::::::::::::: ::::::::::::::::::::::::: ::::::::::
+chatlog\_\_message-group :::::::::
+{#chatlog\_\_message-container-1340830540798103572
+.chatlog\_\_message-container message-id=\"1340830540798103572\"}
+:::::::: chatlog\_\_message ::: chatlog\_\_message-aside
+\![Avatar\](https://cdn.discordapp.com/embed/avatars/4.png){.chatlog\_\_avatar
+loading=\"lazy\"} ::: :::::: chatlog\_\_message-primary :::
+chatlog\_\_header \[philotic\]{.chatlog\_\_author title=\"philotic\"
+user-id=\"1340689603102900307\"} \[BOT\]{.chatlog\_\_author-tag}
+\[\[17/02/2025
+00:41\](#chatlog\_\_message-container-1340830540798103572)\]{.chatlog\_\_timestamp
+title=\"lundi 17 février 2025 00:41\"} ::: ::: {.chatlog\_\_content
+.chatlog\_\_markdown} \[\\\[15 janvier 2023\\\] Ceci est un message
+daté.\]{.chatlog\_\_markdown-preserve} ::: ::: chatlog\_\_attachment
+\[\![Image
+attachment\](https://cdn.discordapp.com/attachments/1257787252952662167/1340830540596772954/signal-2025-02-17-000127_002.gif?ex=67b47200&is=67b32080&hm=39beaea3999c74326529aed65c8018f3902d0193c14900835795e539af7e5e51&
+\"Image: signal-2025-02-17-000127_002.gif (777.01
+KB)\"){.chatlog\_\_attachment-media
+loading=\"lazy\"}\](https://cdn.discordapp.com/attachments/1257787252952662167/1340830540596772954/signal-2025-02-17-000127_002.gif?ex=67b47200&is=67b32080&hm=39beaea3999c74326529aed65c8018f3902d0193c14900835795e539af7e5e51&)
+::: :::::: :::::::: ::::::::: ::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::: postamble ::: postamble\_\_entry Exported 24 message(s) ::: :::
+postamble\_\_entry Timezone: UTC+1 ::: :::::
